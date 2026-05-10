@@ -1,12 +1,27 @@
-- 👋 Hi, I’m Kholoud Ali Bin Shwayah
-- ⚡Skills: Python, SQL, Data Analysis
-- 👀 I'm passionate about Computer Science 
-- 🌱 I'm currently learning Data Engineering.
-- 💞️ ️ I'm looking to collaborate on open-source data engineering projects to gain experience and contribute to the community.
-- 📫 How to reach me kholodali444@gmail.com
-- ⚡  Fun fact: I love solving complex puzzles in my free time!
+# 👋 Hi, I'm Kholoud Ali Alqahtani
 
-<!---
-Kholoud444/Kholoud444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 AI & Data Enthusiast | Computer Science Graduate  
+💡 Passionate about Artificial Intelligence, Data Analytics, and Smart Solutions  
+📊 Skilled in Python, SQL, Data Analysis, and Machine Learning  
+🤖 Currently building AI-driven projects and exploring Data Engineering concepts  
+
+## 🔹 About Me
+- Creator of **LegalBot KSA** – an AI assistant for Saudi Labor Law guidance
+- Interested in AI applications, intelligent systems, and business solutions
+- Continuously learning and developing practical AI & data projects
+- Passionate about transforming ideas into impactful technology solutions
+
+## 🔹 Current Focus
+- Artificial Intelligence & Machine Learning
+- Data Engineering
+- Business Intelligence & Automation
+- Smart City & AI Solutions
+
+## 🔹 Tech Stack
+Python | SQL | Pandas | Machine Learning | Data Visualization | Jupyter Notebook
+
+📫 Reach me at:  
+**kholodali444@gmail.com**
+
+⚡ Fun Fact:  
+I enjoy solving complex problems and turning ideas into real AI solutions.
