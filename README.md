@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kholoud Ali Alqahtani
+# 👋 Hi, I'm Kholoud Ali Bin Shwayah
 
 🚀 AI & Data Enthusiast | Computer Science Graduate  
 💡 Passionate about Artificial Intelligence, Data Analytics, and Smart Solutions  
